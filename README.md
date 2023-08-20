@@ -25,7 +25,13 @@
 </div>
   
   ##
-  
+<a href="https://www.linkedin.com/in/davi-nascimento-760a87204/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.instagram.com/nasc__davi/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://discord.com/channels/@me" target="_blank">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
+<a href="mailto:nascimentoos.davi@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://twitter.com/Nasc__Davi" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+ <br>
+ 
  <a>
    <img  align="right" alt="Davi-gif" height=100em width=100em src="https://i0.wp.com/media2.giphy.com/media/3o7qE4iwtQb9PSYsE0/giphy.gif"/>
 </a>
