@@ -1,4 +1,4 @@
-### Heyy! Sou Davi Nascimento 👋
+### Heyy! I am Davi Nascimento 👋
  
 - 🌱  Learning: Java, Pyhton, C#...
 - 😄 Pronouns: He/Him 
