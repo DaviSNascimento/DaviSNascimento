@@ -33,6 +33,6 @@
  <br>
  
  <a>
-   <img  align="right" alt="Davi-gif" height=300 width=300 src="https://i0.wp.com/media2.giphy.com/media/3o7qE4iwtQb9PSYsE0/giphy.gif"/>
+   <img  align="right" alt="Davi-gif" height=150 width=150 src="https://i0.wp.com/media2.giphy.com/media/3o7qE4iwtQb9PSYsE0/giphy.gif"/>
 </a>
 
