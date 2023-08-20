@@ -8,5 +8,5 @@
   <img height=200em  src="https://github-readme-stats.vercel.app/api?username=DaviSNascimento&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/DaviSNascimento/convoychat">
-  <img height=200em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaviSNascimento&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height=200em  src="https://github-readme-stats.vercel.app/api/top-langs?username=DaviSNascimento&layout=compact&langs_count=8&theme=tokyonight" />
 </a>
