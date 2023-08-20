@@ -1,12 +1,32 @@
 ### Heyy! Sou Davi Nascimento 👋
-
+ 
 - 🌱  Learning: Java, Pyhton, C#...
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Apples are red.
 
+
+ 
+##
+
 <a href="https://github.com/DaviSNascimento/stats-readme">
-  <img height=200em  src="https://github-readme-stats.vercel.app/api?username=DaviSNascimento&show_icons=true&theme=tokyonight" />
+  <img  width=50%%  src="https://github-readme-stats.vercel.app/api?username=DaviSNascimento&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/DaviSNascimento/convoychat">
-  <img height=200em  src="https://github-readme-stats.vercel.app/api/top-langs?username=DaviSNascimento&layout=compact&langs_count=8&theme=tokyonight" />
+  <img  width=45% src="https://github-readme-stats.vercel.app/api/top-langs?username=DaviSNascimento&layout=compact&langs_count=8&theme=tokyonight" />
 </a>
+
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Davi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Davi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
+  <img align="center" alt="Davi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Davi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Davi-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+  
+  ##
+  
+ <a>
+   <img  align="right" alt="Davi-gif" height=100em width=100em src="https://i0.wp.com/media2.giphy.com/media/3o7qE4iwtQb9PSYsE0/giphy.gif"/>
+</a>
+
