@@ -1,6 +1,6 @@
 ### Heyy! I am Davi Nascimento 👋
  
-- 🌱  Learning: Java, Pyhton, C#...
+- 🌱  Learning: Java, Web, React...
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Apples are red.
 
